@@ -1,4 +1,5 @@
 import './App.css';
+import { HTML } from './Components/HTML';
 
 function App() {
   return (
@@ -6,6 +7,7 @@ function App() {
       <header className="App-header">
           Zvon Sri React Typescript App
       </header>
+      <HTML />
     </div>
   );
 }

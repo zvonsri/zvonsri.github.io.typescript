@@ -1,0 +1,32 @@
+aside nav {
+    display: inline-block;
+    /* width: 200px; */
+    /* border: 1px solid red; */
+}
+ul {
+    margin: 0;
+    padding: 0;
+}
+li {
+    text-decoration: none;
+    list-style-type: none;
+    /* display: inline; */
+    padding: 0 20px;
+}
+li:hover {
+    background-color: cadetblue;
+}
+button  {
+    color: white;
+    text-decoration: none;
+    padding: 0 20px;
+    background: transparent;
+    
+}
+/* a:hover {
+background-color: cadetblue;
+} */
+main {
+    /* border: 1px solid red; */
+    color: white;
+}
