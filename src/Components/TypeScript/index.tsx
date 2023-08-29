@@ -1,0 +1,1 @@
+export const Typescript = () => (<><h3>TypeScript Page</h3></>)

@@ -1,0 +1,1 @@
+export const AWS = () => (<><h3>AWS Page</h3></>)

@@ -1,0 +1,1 @@
+export const WebpackBabel = () => <><h3>Webpack / Babel Page</h3></>

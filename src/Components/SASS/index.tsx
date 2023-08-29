@@ -1,0 +1,1 @@
+export const SASS = () => (<><h3>SASS Page</h3></>)
